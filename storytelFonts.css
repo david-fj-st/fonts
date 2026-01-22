@@ -1,24 +1,28 @@
+/* ===================== StorytelEuclid Font Styles ===================== */
 
-		@font-face {
-			font-family:"StorytelEuclid", "Storytel Euclid", "Helvetica", "Arial";
-			src:url("https://www.storytel.com/static/fonts/web/Storytel_Euclid/Latin/Regular/StorytelEuclid-Regular-Latin.woff") format("woff");
-			font-style:normal;
-			font-weight:normal;
-			mso-font-alt: Helvetica;
-		}
+/* Regular (400) */
+@font-face {
+    font-family: "StorytelEuclid";
+    src: url("https://david-fj-st.github.io/custom-fonts/StorytelEuclid-Regular-Latin.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
 
-		@font-face {
-			font-family:"StorytelEuclid", "Storytel Euclid", "Helvetica", "Arial";
-			src:url("https://www.storytel.com/bg/bg/static/fonts/web/Storytel_Euclid/Latin/Regular/StorytelEuclid-Medium-Latin.woff") format("woff");
-			font-style:normal;
-			font-weight:500;
-			mso-font-alt: Helvetica;
-		}
+/* Medium (500) */
+@font-face {
+    font-family: "StorytelEuclid";
+    src: url("https://david-fj-st.github.io/custom-fonts/StorytelEuclid-Medium-Latin.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
 
-		@font-face {
-			font-family:"StorytelEuclid", "Storytel Euclid", "Helvetica", "Arial";
-			src:url("https://www.storytel.com/static/fonts/web/Storytel_Euclid/Latin/Semibold/StorytelEuclid-Semibold-Latin.woff") format("woff");
-			font-style:normal;
-			font-weight:600;
-			mso-font-alt: Helvetica;
-		}
+/* Semibold (600) */
+@font-face {
+    font-family: "StorytelEuclid";
+    src: url("https://david-fj-st.github.io/custom-fonts/StorytelEuclid-Semibold-Latin.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
